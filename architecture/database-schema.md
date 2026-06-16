@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
     PATIENTS {
         int pk_id PK
