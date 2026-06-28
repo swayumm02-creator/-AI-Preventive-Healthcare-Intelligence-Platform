@@ -1,7 +1,5 @@
 # API Reference — Aegis Health
 
-Base URL (dev): `http://localhost:8001/api`
-
 All authenticated endpoints require header: `Authorization: Bearer <jwt>`
 
 ---
